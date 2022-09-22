@@ -1,0 +1,5 @@
+ /* selector: {propiedad : valor } Regla de CSS para todo diseño*/
+
+ body /*selector global*/  {
+    background: rgb(227, 165, 196)
+}
